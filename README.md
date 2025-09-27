@@ -189,5 +189,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: ramzansayyed790@gmai.com
+- Linkedin: www.linkedin.com/in/mohammed-ramzan-b813282a4
